@@ -1,0 +1,16 @@
+---
+host: anderrodrigo
+datacenter:
+  location: &SP São Paulo # Ancora referencia o valor com &
+  router: 42
+roles: 
+  - web
+  - dns
+---
+host: anderrodrigo
+datacenter:
+  location: *SP # Usando ancora referenciada a cima, logo o valor será São paulo
+  router: 42
+roles: 
+  - web
+  - dns  

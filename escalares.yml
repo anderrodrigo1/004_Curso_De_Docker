@@ -1,0 +1,21 @@
+host1: anderrodrigo
+datacenter1:
+  location: São Paulo
+  router: 42
+roles1: 
+  - web
+  - dns
+funcionamento: |
+  segunda - das 08:00 às 17:00
+  terça   - das 08:00 às 17:00
+  quarta  - das 08:00 às 17:00
+  quinta  - das 08:00 às 17:00
+  sexta   - das 08:00 às 17:00
+  sabado  - das 08:00 às 17:00
+  domingo - Não abre
+comentarios: >
+  Temos alto uso de CPU
+  desde 04/10/2020
+
+    Anderson R M Jesus
+    anderrodrigo@gmail.com

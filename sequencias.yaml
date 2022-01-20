@@ -1,0 +1,10 @@
+roles:
+  - webserver
+  - database
+
+# Lista de tipos de pagamentos
+
+payload:
+  - bitcoin
+  - ethereum
+

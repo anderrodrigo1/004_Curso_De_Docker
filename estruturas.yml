@@ -1,0 +1,23 @@
+host1: anderrodrigo
+datacenter1:
+  location: São Paulo
+  router: 42
+roles1: 
+  - web
+  - dns
+---
+host1: anderrodrigo
+datacenter1:
+  location: São Paulo
+  router: 43
+roles1: 
+  - web
+  - dns
+---
+host1: anderrodrigo
+datacenter1:
+  location: São Paulo
+  router: 57
+roles1: 
+  - web
+  - dns  

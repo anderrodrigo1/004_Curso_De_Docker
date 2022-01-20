@@ -1,0 +1,23 @@
+%TAG ! tag:host:anderrodrigo
+
+---
+
+host: anderrodrigo
+datacenter:
+  location: !GEEK São Paulo
+  router: 42
+roles: 
+  - web
+  - dns
+
+---
+
+host: udemay
+datacenter:
+  location: Colorado
+  router: !!str 42 # A tag !!str classifica o valor como string
+  switch: !!str 23 # A tag !!str classifica o valor como string
+
+
+
+

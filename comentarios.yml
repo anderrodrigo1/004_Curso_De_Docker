@@ -1,0 +1,13 @@
+# Configurações do host Anderson
+---
+
+host1: anderrodrigo
+datacenter1:
+  location: São Paulo # capital do estado
+  router: 42
+roles1: 
+  - web
+  - dns
+
+
+#  O atalho para comentar é crtl + "/"
